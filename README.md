@@ -3,7 +3,7 @@ A simple Chrome extension to confuse people about how blind they are by adding a
 
 The blur is limited so that the browser is still usable most of the time. To add to the fun, the blur only shows up 50% of the time so that when the user reloads, the blur will probably be gone.
 
-##Usage
+## Usage
 1. Make sure your victim is very chill and not doing anything important.
   1. Good example: A person who mainly browses the web for fun or simple news.
   2. Bad Example: A Busy Person Working From Home.
@@ -16,5 +16,5 @@ The blur is limited so that the browser is still usable most of the time. To add
 6. Let your friend know at some point about the prank, preferably before doomsday.
 
 
-##License
+## License
 Please see the MIT license in the repository.
